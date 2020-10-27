@@ -1,0 +1,54 @@
+Euro: 1.000000
+Argentine Peso: 92.385632
+Australian Dollar: 1.658090
+Bahraini Dinar: 0.444430
+Botswana Pula: 13.476830
+Brazilian Real: 6.646896
+Bruneian Dollar: 1.606572
+Bulgarian Lev: 1.955830
+Canadian Dollar: 1.556523
+Chilean Peso: 910.972044
+Chinese Yuan Renminbi: 7.928912
+Colombian Peso: 4509.582161
+Croatian Kuna: 7.572978
+Czech Koruna: 27.341339
+Danish Krone: 7.440261
+Hong Kong Dollar: 9.161078
+Hungarian Forint: 365.064629
+Icelandic Krona: 165.309887
+Indian Rupee: 87.111065
+Indonesian Rupiah: 17306.820760
+Iranian Rial: 49729.130058
+Israeli Shekel: 3.997301
+Japanese Yen: 123.691975
+Kazakhstani Tenge: 507.711464
+South Korean Won: 1331.478698
+Kuwaiti Dinar: 0.361356
+Libyan Dinar: 1.610027
+Malaysian Ringgit: 4.923440
+Mauritian Rupee: 47.183067
+Mexican Peso: 24.647565
+Nepalese Rupee: 140.031037
+New Zealand Dollar: 1.764770
+Norwegian Krone: 10.853268
+Omani Rial: 0.454477
+Pakistani Rupee: 190.154938
+Philippine Peso: 57.109369
+Polish Zloty: 4.582822
+Qatari Riyal: 4.302465
+Romanian New Leu: 4.874934
+Russian Ruble: 90.251124
+Saudi Arabian Riyal: 4.432485
+Singapore Dollar: 1.606572
+South African Rand: 19.033794
+Sri Lankan Rupee: 217.900611
+Swedish Krona: 10.313701
+Swiss Franc: 1.074424
+Taiwan New Dollar: 33.807055
+Thai Baht: 36.901273
+Trinidadian Dollar: 8.018849
+Turkish Lira: 9.624174
+Emirati Dirham: 4.340880
+British Pound: 0.906544
+US Dollar: 1.181996
+Venezuelan Bolivar: 11.805185
