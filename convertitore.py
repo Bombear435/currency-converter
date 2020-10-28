@@ -1,3 +1,5 @@
+from decimal import Decimal
+
 def invio(value_from, dalla_valuta, alla_valuta):
     try:
 
@@ -12,7 +14,10 @@ def invio(value_from, dalla_valuta, alla_valuta):
                 alla_valuta_value = c[(len(alla_valuta) + 2):-3]
 
         res = (float(value_from) * float(alla_valuta_value) / float(dalla_valuta_value))
-        return res
 
+        if len(str(res)) > 21:
+            return 'The number you entered is too long'
+        else:
+            return round(Decimal(res), 4)
     except ValueError:   # segnala errore se non viene inserito un numero
-        return 'Prova inserendo un valore numerico.'
+        return 'Try entering a numeric value.'
