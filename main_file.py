@@ -22,7 +22,7 @@ if __name__ == '__main__':
     update_xrates()
 
     win = tk.Tk()
-    img = tk.PhotoImage(file='files\\coin.gif')
+    img = tk.PhotoImage(file='./files/coin.gif')
     win.tk.call('wm', 'iconphoto', win._w, img)
     win.title('Currency Converter')
     win.geometry('500x300')     # dimensioni finestra
