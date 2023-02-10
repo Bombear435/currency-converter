@@ -40,5 +40,3 @@ def lista_valute():
         name = soup.select('.tablesorter > tbody:nth-child(2) > tr:nth-child('+str(i)+') > td:nth-child(1)')
 
     return names
-
-update_xrates()
